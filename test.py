@@ -27,6 +27,7 @@ class Ui_Form(object):
         self.label.setText(_translate("Form", "Hello pyqt5"))
 
 if __name__ == '__main__':
+    #测试
     app = QApplication(sys.argv)
     mainWindow = QMainWindow()
     ui = Ui_Form()
