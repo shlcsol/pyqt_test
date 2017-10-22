@@ -28,6 +28,7 @@ class Ui_Form(object):
 
 if __name__ == '__main__':
     #测试
+    #再一次
     app = QApplication(sys.argv)
     mainWindow = QMainWindow()
     ui = Ui_Form()
